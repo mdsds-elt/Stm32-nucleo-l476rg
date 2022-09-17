@@ -15,7 +15,7 @@
 - [ ] LEds(Red and Green);
 - [ ] Resistor.
 
-The sensor sends a signal proportional to the measured distance, after reflecting on any obstacle the signal returns to the module.
+The sensor sends a signal proportional to the measured distance, after reflecting on any obstacle the signal returns to the SENSOR.
 When an obstacle approaches the sensor, an audible signal is emitted through a Buzzer, the project also consists of a red LED to indicate the approach and a green LED to indicate the distance from the obstacle.
 
 [Project code link](https://github.com/mdsds-elt/Stm32-nucleo-l476rg/tree/main/Sensor_utlrasonic)   
